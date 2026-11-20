@@ -1,0 +1,4 @@
+id	timestamp	event_type	payload
+12345678-abcd-1111	2026-11-01T10:00:00Z	LOGIN	success
+12345678-abcd-2222	2026-11-01T10:05:00Z	CLICK	button_id=submit
+87654321-dcba-9999	2026-11-01T10:10:00Z	LOGOUT	success
